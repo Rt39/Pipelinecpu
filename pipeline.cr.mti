@@ -1,0 +1,146 @@
+E:/Pipelinecpu/mips.v {1 {vlog -work work -vopt E:/Pipelinecpu/mips.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} E:/Pipelinecpu/dm.v {1 {vlog -work work -vopt E:/Pipelinecpu/dm.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module dm
+
+Top level modules:
+	dm
+
+} {} {}} E:/Pipelinecpu/gpr.v {1 {vlog -work work -vopt E:/Pipelinecpu/gpr.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module gpr
+
+Top level modules:
+	gpr
+
+} {} {}} E:/Pipelinecpu/pc.v {1 {vlog -work work -vopt E:/Pipelinecpu/pc.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} E:/Pipelinecpu/IR.v {1 {vlog -work work -vopt E:/Pipelinecpu/IR.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module IR
+
+Top level modules:
+	IR
+
+} {} {}} E:/Pipelinecpu/EX_MEM.v {1 {vlog -work work -vopt E:/Pipelinecpu/EX_MEM.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module EX_MEM
+
+Top level modules:
+	EX_MEM
+
+} {} {}} E:/Pipelinecpu/HazardDetector.v {1 {vlog -work work -vopt E:/Pipelinecpu/HazardDetector.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module HazardDetector
+
+Top level modules:
+	HazardDetector
+
+} {} {}} E:/Pipelinecpu/ZeroTest.v {1 {vlog -work work -vopt E:/Pipelinecpu/ZeroTest.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ZeroTest
+
+Top level modules:
+	ZeroTest
+
+} {} {}} E:/Pipelinecpu/instruction_def.v {1 {vlog -work work -vopt E:/Pipelinecpu/instruction_def.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+
+} {} {}} E:/Pipelinecpu/ctrl_encode_def.v {1 {vlog -work work -vopt E:/Pipelinecpu/ctrl_encode_def.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+
+} {} {}} E:/Pipelinecpu/ID_EX.v {1 {vlog -work work -vopt E:/Pipelinecpu/ID_EX.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ID_EX
+
+Top level modules:
+	ID_EX
+
+} {} {}} E:/Pipelinecpu/WBtoID.v {1 {vlog -work work -vopt E:/Pipelinecpu/WBtoID.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module WBtoID
+
+Top level modules:
+	WBtoID
+
+} {} {}} E:/Pipelinecpu/npc.v {1 {vlog -work work -vopt E:/Pipelinecpu/npc.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module npc
+
+Top level modules:
+	npc
+
+} {} {}} E:/Pipelinecpu/alu.v {1 {vlog -work work -vopt E:/Pipelinecpu/alu.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} E:/Pipelinecpu/MUX.v {1 {vlog -work work -vopt E:/Pipelinecpu/MUX.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module RegDst_mux
+-- Compiling module mux2_32
+-- Compiling module DatatoReg_mux
+-- Compiling module Forward_3mux
+
+Top level modules:
+	RegDst_mux
+	mux2_32
+	DatatoReg_mux
+	Forward_3mux
+
+} {} {}} E:/Pipelinecpu/IF_ID.v {1 {vlog -work work -vopt E:/Pipelinecpu/IF_ID.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module IF_ID
+
+Top level modules:
+	IF_ID
+
+} {} {}} E:/Pipelinecpu/Forwarding.v {1 {vlog -work work -vopt E:/Pipelinecpu/Forwarding.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module Forwarding
+
+Top level modules:
+	Forwarding
+
+} {} {}} E:/Pipelinecpu/ctrl.v {1 {vlog -work work -vopt E:/Pipelinecpu/ctrl.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ctrl
+
+Top level modules:
+	ctrl
+
+} {} {}} E:/Pipelinecpu/im.v {1 {vlog -work work -vopt E:/Pipelinecpu/im.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module im
+
+Top level modules:
+	im
+
+} {} {}} E:/Pipelinecpu/MEM_WB.v {1 {vlog -work work -vopt E:/Pipelinecpu/MEM_WB.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module MEM_WB
+
+Top level modules:
+	MEM_WB
+
+} {} {}} E:/Pipelinecpu/extend.v {1 {vlog -work work -vopt E:/Pipelinecpu/extend.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module extend
+
+Top level modules:
+	extend
+
+} {} {}}
